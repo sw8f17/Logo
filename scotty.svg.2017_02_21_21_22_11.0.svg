@@ -15,8 +15,8 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.0 r"
-   sodipodi:docname="scotty.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="scotty.svg.2017_02_21_21_22_11.0.svg">
   <defs
      id="defs2">
     <mask
@@ -93,6 +93,22 @@
          d="m 78.0068,55.430039 c 2.588718,-0.09881 5.217975,-0.235148 7.445864,0 2.630877,0.27768 3.325937,0.773361 3.325937,3.89718 v 3e-6 c 0,3.853336 -1.450641,3.89718 -3.325937,3.89718 h -5.726072 c -4.38136,0 -5.045729,0.08909 -5.045729,-3.89718 v -3e-6 c 0,-2.159037 1.484707,-3.826901 3.325937,-3.89718 z"
          style="opacity:1;fill:#eddede;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19107158;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4820">
+      <path
+         inkscape:tile-y0="34.609392"
+         inkscape:tile-x0="78.216315"
+         inkscape:tile-h="6.4341161"
+         inkscape:tile-w="16.041494"
+         inkscape:tile-cy="37.82645"
+         inkscape:tile-cx="86.237062"
+         sodipodi:nodetypes="cccssc"
+         inkscape:connector-curvature="0"
+         id="path4822"
+         d="m 77.581546,39.452891 c 0,0.874125 5.383154,4.203401 16.676256,4.203401 l 0.0013,-6.551588 c -9.208447,0 -15.367408,1.436142 -16.673362,1.710155 0,0 -0.0043,0.511659 -0.0043,0.638032 z"
+         style="display:inline;fill:#846223;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29202649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -101,11 +117,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="356.82775"
-     inkscape:cy="928.71784"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="319.31301"
+     inkscape:cy="949.98674"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5246"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
@@ -115,10 +131,10 @@
      inkscape:object-paths="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1870"
-     inkscape:window-height="1013"
-     inkscape:window-x="24"
-     inkscape:window-y="41"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -136,23 +152,23 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Viewport"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:none">
     <rect
-       style="display:inline;opacity:1;fill:#135893;fill-opacity:0.43097642;fill-rule:nonzero;stroke:none;stroke-width:2.5135417;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#135893;fill-opacity:0.43097642;fill-rule:nonzero;stroke:none;stroke-width:1.90664887;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4979"
-       width="45.508331"
-       height="54.901039"
-       x="71.503639"
-       y="22.035982"
-       inkscape:export-xdpi="320.29999"
-       inkscape:export-ydpi="320.29999" />
+       width="35.98333"
+       height="39.95208"
+       x="76.266136"
+       y="29.708899"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="BG"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
        style="opacity:1;fill:#2b0055;fill-opacity:0.99644129;fill-rule:nonzero;stroke:none;stroke-width:4.22953844;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4487"
@@ -171,7 +187,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        id="path4768"
@@ -289,7 +306,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Cow">
+     inkscape:label="Cow"
+     sodipodi:insensitive="true">
     <ellipse
        style="opacity:1;fill:#000000;fill-opacity:0.42857145;fill-rule:nonzero;stroke:none;stroke-width:0.38320491;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path5248"
@@ -414,8 +432,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Beam"
-     sodipodi:insensitive="true">
+     inkscape:label="Beam">
     <use
        x="0"
        y="0"
@@ -441,8 +458,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Notes"
-     sodipodi:insensitive="true">
+     inkscape:label="Notes">
     <path
        style="opacity:1;fill:#000000;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:1.81882262;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 92.991092,46.224288 -0.241764,0.807397 a 0.12838758,0.1908464 76.669514 0 0 -0.155731,-0.01238 0.12838758,0.1908464 76.669514 0 0 -0.156167,0.168702 0.12838758,0.1908464 76.669514 0 0 0.215195,0.08108 0.12838758,0.1908464 76.669514 0 0 0.156257,-0.168996 l 0.167685,-0.560008 c 0.134202,0.209146 0.219337,0.352422 0.0085,0.482772 0.394792,-0.165069 -0.0019,-0.504797 0.0795,-0.776585 z"
@@ -537,8 +553,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="Text"
-     sodipodi:insensitive="true">
+     inkscape:label="Text">
     <text
        id="text4948"
        y="52.129005"
@@ -580,8 +595,7 @@
   <g
      inkscape:label="Notes copy"
      id="g5246"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <path
        style="opacity:1;fill:#000000;fill-opacity:0.99607843;fill-rule:nonzero;stroke:none;stroke-width:1.81882262;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 90.945845,54.348002 0.01723,0.03375 0.05433,0.106408 0.05546,0.108612 0.04256,0.08336 0.230907,0.452204 c -0.04513,0.01391 -0.0897,0.05023 -0.121149,0.0987 -0.05726,0.08834 -0.05549,0.191245 0.0038,0.229926 0.05945,0.03867 0.154148,-0.0018 0.211532,-0.09022 0.05742,-0.08849 0.05567,-0.19146 -0.0039,-0.230036 l -0.250333,-0.490247 0.475233,-0.198874 0.234849,0.459922 c -0.04513,0.01391 -0.0897,0.05023 -0.121148,0.0987 -0.05726,0.08833 -0.05549,0.191245 0.0038,0.229926 0.05945,0.03866 0.154147,-0.0018 0.211532,-0.09022 0.05742,-0.08849 0.05568,-0.19146 -0.0039,-0.230037 l -0.254274,-0.497964 -0.04037,-0.07906 -0.05765,-0.112914 -0.06931,-0.135739 z m 0.142465,0.110478 0.475234,-0.198875 0.05743,0.112472 -0.476922,0.19557 z"
@@ -656,7 +670,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Ufo">
+     inkscape:label="Ufo"
+     style="display:inline">
     <use
        x="0"
        y="0"
@@ -683,7 +698,8 @@
        mask="url(#mask4671)"
        d="m 86.509544,41.796383 h 7.748257 v 2.124934 h -7.748257 z"
        id="rect4616"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath4820)" />
     <path
        inkscape:tile-y0="34.609392"
        inkscape:tile-x0="78.216315"
@@ -701,7 +717,7 @@
        y="0"
        inkscape:tiled-clone-of="#rect4616"
        xlink:href="#rect4616"
-       transform="matrix(-1,0,0,1,188.5156,0)"
+       transform="matrix(-0.99999974,0,0,1,188.51558,0)"
        id="use4677"
        width="100%"
        height="100%" />
@@ -770,7 +786,8 @@
        id="path4819"
        inkscape:connector-curvature="0"
        clip-path="url(#clipPath4837)"
-       sodipodi:nodetypes="csssscsccc" />
+       sodipodi:nodetypes="csssscsccc"
+       transform="translate(-1.0000088e-6,1.3670171e-6)" />
     <use
        x="0"
        y="0"
