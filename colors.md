@@ -3,6 +3,3 @@
 | First row  | ![#bc8b32](https://placehold.it/15/bc8b32/000000?text=+) `#bc8b32` | ![#7eacc4](https://placehold.it/15/7eacc4/000000?text=+) `#7eacc4` | ![#c7db5c](https://placehold.it/15/c7db5c/000000?text=+) `#c7db5c` | ![#1b81d8](https://placehold.it/15/1b81d8/000000?text=+) `#1b81d8` | ![#bc4132](https://placehold.it/15/bc4132/000000?text=+) `#bc4132` | ![#2b0055](https://placehold.it/15/2b0055/000000?text=+) `#2b0055` | ![#120055](https://placehold.it/15/120055/000000?text=+) `#120055` | ![#eddede](https://placehold.it/15/eddede/000000?text=+) `#eddede` | ![#496e87](https://placehold.it/15/496e87/000000?text=+) `#496e87` |
 | Second row | ![#846223](https://placehold.it/15/846223/000000?text=+) `#846223` | ![#5994b3](https://placehold.it/15/5994b3/000000?text=+) `#5994b3` | ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000` | ![#135893](https://placehold.it/15/135893/000000?text=+) `#135893` |         |         |         |         |         |
 | Third row  | ![#8279dc](https://placehold.it/15/8279dc/000000?text=+) `#8279dc` |         |         |         |         |         |         |         |         |
-
-- ![#bc8b32](https://placehold.it/15/bc8b32/000000?text=+) `#bc8b32`
-- ![#7eacc4](https://placehold.it/15/7eacc4/000000?text=+) `#7eacc4`
